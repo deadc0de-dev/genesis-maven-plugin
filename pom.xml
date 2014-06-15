@@ -10,4 +10,24 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <licenses>
+        <license>
+            <name>BSD 3-Clause License</name>
+            <url>http://opensource.org/licenses/BSD-3-Clause</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <organization>
+        <name>deadc0de.dev</name>
+    </organization>
+
+    <developers>
+        <developer>
+            <id>labes</id>
+            <name>Francesco Komauli</name>
+            <email>0x1abe5@gmail.com</email>
+        </developer>
+    </developers>
 </project>
