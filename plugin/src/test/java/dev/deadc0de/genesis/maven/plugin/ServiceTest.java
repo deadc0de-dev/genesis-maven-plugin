@@ -1,11 +1,10 @@
 package dev.deadc0de.genesis.maven.plugin;
 
 import dev.deadc0de.genesis.ServiceDescriptor;
-import edu.emory.mathcs.backport.java.util.Collections;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import org.junit.Assert;
-import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 public class ServiceTest {
